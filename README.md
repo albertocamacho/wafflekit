@@ -57,6 +57,7 @@ There are a handful of prebuilt elements like buttons, nav bars, selectors. The 
 Wafflekit uses [Feather Icons](feathericons.com), a library of simple open source icons created by Cole Bemis and available under the MIT License. They can be overriden with any of the kit colors and can be accessed through a few component UI symbols or the icon symbols themselves.
 
 
+![Screenshot](Markdown_Github_Icons.png)
 
 
 
