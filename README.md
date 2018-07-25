@@ -11,12 +11,13 @@ It's completely free to use and available under the Apache License.
 
 
 # Using as a Library
+[Learn about Sketch Libraries](https://sketchapp.com/docs/libraries/adding-libraries)
 
 
 
 ## Direct Download
 
-You can download the library directly here. If you'd like to receive updates you'll need to download the new version and add it again to your Sketch Libraries.
+You can download the library directly [here](https://github.com/albertocamacho/wafflekit/tree/master/wafflekit). If you'd like to receive updates you'll need to download the new version and add it again to your Sketch Libraries. 
 
 
 
