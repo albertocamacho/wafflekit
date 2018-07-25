@@ -23,6 +23,7 @@ You can download the library directly here. If you'd like to receive updates you
 ## Through Sketch Cloud (Recommended)
 
 By using Sketch Cloud you'll automatically receive updates whenever a new version is available (handy for bug fixes).
+Visit https://sketch.cloud/s/Qke5e and select 'Download' and then 'Add Library to Sketch'
 
 
 
@@ -38,7 +39,7 @@ Text symbols comes in various sizes: H1, H2, H3, Label (Paragraph) and Micro
 
 Text symbols can be overriden based on alignment (Left, Center, Right) and Color (Light, Dark)
 
-![Text Symbols](ReadMeAssets/Markdown_Github_Text.png)
+![Text Symbols](markdown_assets/Markdown_Github_Text.png)
 
 
 
@@ -58,7 +59,7 @@ There are a handful of prebuilt elements like buttons, nav bars, selectors. The 
 Wafflekit uses [Feather Icons](feathericons.com), a library of simple open source icons created by Cole Bemis and available under the MIT License. They can be overriden with any of the kit colors and can be accessed through a few component UI symbols or the icon symbols themselves.
 
 
-![Icons](ReadMeAssets/Markdown_Github_Icons.png)
+![Icons](markdown_assets/Markdown_Github_Icons.png)
 
 
 
@@ -66,12 +67,12 @@ Wafflekit uses [Feather Icons](feathericons.com), a library of simple open sourc
 
 Flows are based on this format (Originating Side / Line Type / Pointing Direction / Fill Type) such as this flow below (Up / Hook / Right / Solid)
 
-![Flow Example](ReadMeAssets/Markdown_Github_FlowSample.png)
+![Flow Example](markdown_assets/Markdown_Github_FlowSample.png)
 
 
 There are 80 flows that can be used on their own or with diagram symbols (Nodes, Actions, Pages, Tooltips) to create wireflow diagrams.
 
-![Flows](ReadMeAssets/Markdown_Github_Flows.png)
+![Flows](markdown_assets/Markdown_Github_Flows.png)
 
 
 
@@ -80,7 +81,7 @@ There are 80 flows that can be used on their own or with diagram symbols (Nodes,
 
 
 
-There is no cost to use Wafflekit but if you found it useful, consider making a donation to the [Malaria Consortium](https://www.malariaconsortium.org/support/donate.html). If you'd like to sponsor Wafflekit, contact me (here)[https://acamacho.co] - any proceeds from your sponsorship will be donated!
+There is no cost to use Wafflekit but if you found it useful, consider making a donation to the [Malaria Consortium](https://www.malariaconsortium.org/support/donate.html). If you'd like to sponsor Wafflekit, contact me [here](https://acamacho.co) - any proceeds from your sponsorship will be donated!
 
 
 
