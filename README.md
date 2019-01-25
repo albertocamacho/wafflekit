@@ -1,88 +1,10 @@
 # About Wafflekit
 
-Wafflekit is a library filled with flows, shapes, icons, text and diagraming symbols to help you wireframe faster and keep your wireframes consistent.
+Wafflekit is the fastest way to wireframe in Sketch.
 
-The first version was created in December 2017 and is now used as part of the design system at Warner Bros. Digital Labs, it is maintained by [Alberto Camacho](https://twitter.com/achangeofcoast)
+V1 - December 2017
 
-It's completely free to use and available under the Apache License.
-
-
-
-
-
-# Using as a Library
-[Learn about Sketch Libraries](https://sketchapp.com/docs/libraries/adding-libraries)
-
-
-
-## Direct Download
-
-You can download the library directly [here](https://github.com/albertocamacho/wafflekit/tree/master/wafflekit). If you'd like to receive updates you'll need to download the new version and add it again to your Sketch Libraries. 
-
-
-
-## Through Sketch Cloud (Recommended)
-
-By using Sketch Cloud you'll automatically receive updates whenever a new version is available (handy for bug fixes).
-Visit https://sketch.cloud/s/Qke5e and select 'Download' and then 'Add Library to Sketch'
-
-
-
-
-
-# Shapes, Colors and Text
-
-Shapes can contain overridable text, border and background fills, and shape types.
-
-Shapes can be square, rounded rectangles or ovals.
-
-Text symbols comes in various sizes: H1, H2, H3, Label (Paragraph) and Micro 
-
-Text symbols can be overriden based on alignment (Left, Center, Right) and Color (Light, Dark)
-
-![Text Symbols](markdown_assets/Markdown_Github_Text.png)
-
-
-
-
-
-
-# UI Elements
-
-There are a handful of prebuilt elements like buttons, nav bars, selectors. The goal of this library is not to give you thousands of prebuilt components but make it easier to create your own and flatten your artboards.
-
-
-
-
-
-# Icons
-
-Wafflekit uses [Feather Icons](feathericons.com), a library of simple open source icons created by Cole Bemis and available under the MIT License. They can be overriden with any of the kit colors and can be accessed through a few component UI symbols or the icon symbols themselves.
-
-
-![Icons](markdown_assets/Markdown_Github_Icons.png)
-
-
-
-# Flows & Diagrams
-
-Flows are based on this format (Originating Side / Line Type / Pointing Direction / Fill Type) such as this flow below (Up / Hook / Right / Solid)
-
-![Flow Example](markdown_assets/Markdown_Github_FlowSample.png)
-
-
-There are 80 flows that can be used on their own or with diagram symbols (Nodes, Actions, Pages, Tooltips) to create wireflow diagrams.
-
-![Flows](markdown_assets/Markdown_Github_Flows.png)
-
-
-
-
-# Donating & Sponsoring
-
-
-
-There is no cost to use Wafflekit but if you found it useful, consider making a donation to the [Malaria Consortium](https://www.malariaconsortium.org/support/donate.html). If you'd like to sponsor Wafflekit, contact me [here](https://acamacho.co) - any proceeds from your sponsorship will be donated!
+V2 - January 2019
 
 
 
